@@ -226,6 +226,8 @@ Give a ⭐️ if you like this project!
 
 I would like to thank:
 - [Microverse](www.microverse.com)
+- [Nelson Sakwa in Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+- [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <!-- LICENSE -->
 
