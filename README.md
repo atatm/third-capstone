@@ -11,6 +11,7 @@
   - [Tech Stack](#tech-stack)
   - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [ Presentation Video](#video-presentation)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -80,6 +81,9 @@ Pleaseholder
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 - [Live Demo Link](https://steady-macaron-1f8cc2.netlify.app/)
+
+##  Presentation Video <a name="video-presentation"></a>
+- [ Presentation Video](https://www.loom.com/share/996571e9adff47408fa2e67fbe47707e)
 
 <!-- GETTING STARTED -->
 
@@ -226,8 +230,7 @@ Give a ⭐️ if you like this project!
 
 I would like to thank:
 - [Microverse](www.microverse.com)
-- [Nelson Sakwa in Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
-- [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
+- [Nelson Sakwa in Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))[Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <!-- LICENSE -->
 
