@@ -79,7 +79,7 @@ Pleaseholder
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link](https://atatm.github.io/third-capstone/)
+- [Live Demo Link](https://steady-macaron-1f8cc2.netlify.app/)
 
 <!-- GETTING STARTED -->
 
